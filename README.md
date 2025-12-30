@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nokiruy/Noki-Hotta-Auto/main/icon.ico" alt="NHA Icon" width="256">
+  <img src="https://raw.githubusercontent.com/nokiruy/Noki-Hotta-Auto/main/app_iconHottA.ico" alt="NHA Icon" width="256">
   
 # Noki-Hotta-Auto
 
