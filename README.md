@@ -33,7 +33,7 @@
 ## 下载与使用教程
 1. **下载可执行文件**  
    - 前往 [Releases页面](https://github.com/nokiruy/Noki-hbr-Auto/releases)
-   - 选择最新版本的 `Noki_HBR_Auto-v*.*.*.exe`
+   - 选择最新版本的 `Noki-Hotta-Auto-v*.*.*.exe`
    - 也可在用户交流QQ群： 内我求助
 
 
